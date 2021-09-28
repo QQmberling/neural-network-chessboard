@@ -1,4 +1,4 @@
-### neural-network-chessboard
+# neural-network-chessboard
 
-# Обучение в 1.ipynb
-# Сохраненные веса в фолдере 5555
+### Обучение в 1.ipynb
+### Сохраненные веса в фолдере 5555
